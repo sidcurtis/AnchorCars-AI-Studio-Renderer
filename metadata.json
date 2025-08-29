@@ -1,0 +1,5 @@
+{
+  "name": "Sid test copy",
+  "description": "A tool to generate hyper-realistic, high-resolution recreations of vehicles in a fixed studio environment using a supplied background and car image.",
+  "requestFramePermissions": []
+}
